@@ -2,6 +2,7 @@
 
 # dependencies
 *.log
+node_modules
 
 # production
 dist
