@@ -1,0 +1,7 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-flow: row dense;
+  grid-gap: 30px;
+  padding: 25px;
+}
