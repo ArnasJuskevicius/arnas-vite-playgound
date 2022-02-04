@@ -4,4 +4,4 @@
  * @type {Cypress.PluginConfig}
  */
 
-module.exports = (on, config) => {}
+ module.exports = (on, config) => {}
