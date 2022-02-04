@@ -26,3 +26,6 @@ Challenges:
     - IMO I would not use Vite for production at this moment.
 - Vite build works great, but breaks with vite preview.
 - Running same build with http-server works as expected.
+
+# Day 5 (Friday)
+- Tried using https://docs.cypress.io/guides/component-testing/introduction#Experimental without luck
